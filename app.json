@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "facebookProject",
+    "slug": "facebookProject",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/fblogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/wordicon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/wordicon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/wordicon.png"
+    }
+  }
+}
